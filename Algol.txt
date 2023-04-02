@@ -1,0 +1,6 @@
+Decide which company to buy pizza from
+Look at their menu
+Decide which pizza is wanted
+Decide drinks wanted
+Decide how to get pizza (pickup, delivery)
+Pay
