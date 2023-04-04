@@ -3,4 +3,4 @@ Look at their menu
 Decide which pizza is wanted
 Decide drinks wanted
 Decide how to get pizza (pickup, delivery)
-Add new step for testing of branching
+Add new step for testing of branching and merging
