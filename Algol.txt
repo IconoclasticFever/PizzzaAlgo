@@ -2,7 +2,7 @@ Decide which company to buy pizza from
 Look at their menu
 Decide which pizza is wanted
 Decide drinks wanted
-Decide how to get pizza (pickup, delivery)
+Decide how to get pizza (pickup, delivery) //added this text to test editing only main
 Add new step for testing of branching and merging
 Added a new line of code
 Added a new line to test newtest branch (third branch)
